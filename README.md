@@ -1,10 +1,19 @@
 
 # Arduino StateMachine - Clock & Motion Alarm System
 
-A basic clock with alarm system that triggers a siren -after countdown- when motion is detected.
-User disables siren & alarm via code.
+A basic clock that self-corrects when timeslipping is detected.
+Also includes an alarm system that triggers a siren (after countdown) when motion is detected.
+User enables/disables alarm via code.
+
+- no libraries used for clock functions.
+- no libraries used for custom made characters.
 
 
+Sketch uses 17052 bytes (52%) of program storage space. Maximum is 32256 bytes.   
+Global variables use 851 bytes (41%) of dynamic memory, leaving 1197 bytes for local variables. Maximum is 2048 bytes.
+
+
+ 
 ## Prototype circuit setup with PIR motion sensor, LCD screen, keypad & buzzer as main components:
 
 ![circuit_prototype](https://github.com/CityTropes/Arduino_StateMachine_Clock_With_Motion_Alarm_System/assets/84394352/6a16e0f8-705d-426d-9070-ce1cce13757e)
