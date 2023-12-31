@@ -7,6 +7,7 @@ User enables/disables alarm via code.
 
 - no libraries used for clock functions.
 - no libraries used for custom made characters.
+- extensive low memory log/debug methods included.
 
 
 Sketch uses 17052 bytes (52%) of program storage space. Maximum is 32256 bytes.   
