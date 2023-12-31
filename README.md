@@ -5,9 +5,9 @@ A basic clock with alarm system that triggers a siren -after countdown- when mot
 User disables siren & alarm via code.
 
 
-## Circuit setup with PIR motion sensor, LCD screen, keypad & buzzer as main components:
+## Prototype circuit setup with PIR motion sensor, LCD screen, keypad & buzzer as main components:
 
-![alarm_circuit_pir](https://github.com/CityTropes/Arduino_Motion_Alarm_System/assets/84394352/89852676-3e0f-4a5d-a057-36bc6b10c144)
+![circuit_prototype](https://github.com/CityTropes/Arduino_StateMachine_Clock_With_Motion_Alarm_System/assets/84394352/6a16e0f8-705d-426d-9070-ce1cce13757e)
 
 
 ## Happy flow:
